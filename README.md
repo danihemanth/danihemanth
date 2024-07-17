@@ -1,4 +1,4 @@
-### Hi there, I'm Dani Hemanth [Dani joy Earth][Virusmap] 👋
+### Hi there, I'm Dani Hemanth [Dani joy Earth] 👋
 
 [![Website](https://img.shields.io/website?label=moun.in&style=for-the-badge&url=https%3A%2F%2FMoun.in)](https://moun.in)
 [![Website](https://img.shields.io/website?label=fuelassist.in&style=for-the-badge&url=https%3A%2F%2FFuelassist.in)](https://fuelassist.in)
